@@ -124,7 +124,7 @@ const DetailsComponent = (props: DetailsComponentProps) => {
                                             <TableCell>{refereeExam.score}/{props.exam.maxScore} - {color(refereeExam.score, props.exam.maxScore)}</TableCell>
                                             <TableCell>{refereeExam.answered}/{props.exam.questions.length}</TableCell>
                                             <TableCell>{refereeExam.wellAnswered}</TableCell>
-                                            <TableCell>{formatTime(refereeExam.startDate, refereeExam.endDate)}</TableCell>
+                                            <TableCell>{formatTime(refereeExam.endDate)}</TableCell>
                                             <TableCell>{refereeExam.emailSent ? "TRUE" : "FALSE"}</TableCell>
                                             <TableCell>{refereeExam.resultSent ? "TRUE" : "FALSE"}</TableCell>
                                             <TableCell>

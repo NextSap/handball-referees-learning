@@ -5,12 +5,12 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 
-export function formatTime(startDate: Date | null, endDate: Date | null) {
-  if(!startDate || !endDate) return "N/A";
+export function formatTime(endDate: Date | null) {
+  if(!endDate) return "N/A";
 
-  const start = new Date(startDate);
+  const now = new Date();
   const end = new Date(endDate);
-  const diff = end.getTime() - start.getTime();
+  const diff = end.getTime() - now.getTime();
 
   const hours = Math.floor(diff / (1000 * 60 * 60));
   const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
