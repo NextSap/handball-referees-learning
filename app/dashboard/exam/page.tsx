@@ -4,11 +4,9 @@ import prisma from "@/lib/prisma";
 
 const Exam = async () => {
     const exams = await prisma.exam.findMany();
-    const referees = await prisma.referee.findMany();
-    const refereeExams = await prisma.refereeExam.findMany();
 
     return (
-        <ExamComponent exams={exams} referees={referees} refereeExams={refereeExams}/>
+        <ExamComponent exams={exams}/>
     );
 };
 
