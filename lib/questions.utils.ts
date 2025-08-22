@@ -59,16 +59,17 @@ export function getRandomQuestions(rules: string[], amount: number, language: "e
     return questions.sort(() => Math.random() - Math.random()).slice(0, amount);
 }
 
-export function getQuestionsById(questionIdList: string[], language: "en" | "fr" | "nl" | "de", shuffle?: boolean): Question[] {
+export function getQuestionsById(questionIdList: string[], language: "en" | "fr" | "nl" | "de"): Question[] {
     let questions: Question[] = [];
 
-    getAllQuestions(language).forEach(question => {
-        if (questionIdList.includes(question.id)) {
+    questionIdList.forEach(questionId => {
+        const question = getQuestionById(questionId, language);
+        if (question) {
             questions.push(question);
         }
-    });
+    })
 
-    return shuffle ? questions.sort(() => Math.random() - Math.random()) : questions;
+    return questions;
 }
 
 export function getQuestionById(questionId: string, language: "en" | "fr" | "nl" | "de"): Question | undefined {

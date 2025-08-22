@@ -49,6 +49,7 @@ const CreateExam = () => {
     const [selectedQuestions, setSelectedQuestions] = useState<string[]>([]);
     const [selectedRule, setSelectedRule] = useState<string>(rules[0]);
     const [duration, setDuration] = useState<number>(1);
+    const [shuffle, setShuffle] = useState<boolean>(false);
     const questions = getQuestions(selectedRule === "SAR" ? "SAR" : selectedRule.split(".")[0], "en");
 
     const [title, setTitle] = useState<string>("");
@@ -62,7 +63,7 @@ const CreateExam = () => {
         }
     }
 
-    /*const shuffleQuestions = (questions: string[]) => {
+    const shuffleQuestions = (questions: string[]) => {
         const shuffled = [...questions];
         let currentIndex = shuffled.length, randomIndex;
 
@@ -72,7 +73,7 @@ const CreateExam = () => {
             [shuffled[currentIndex], shuffled[randomIndex]] = [shuffled[randomIndex], shuffled[currentIndex]];
         }
         return shuffled;
-    } */
+    }
 
     return (
         <Dialog>
@@ -172,18 +173,26 @@ const CreateExam = () => {
                                        className={"w-20 h-7"}
                                        onChange={(e) => setDuration(parseInt(e.target.value))}/>
                             </Label>
+                            <Label className="flex items-center mt-3 gap-2" htmlFor={"shuffle"}>
+                                Do you want each question to be shuffled during the exam ?
+                                <Checkbox id="shuffle" name="shuffle" checked={shuffle}
+                                          onCheckedChange={() => {
+                                              setShuffle(!shuffle);
+                                          }}/>
+                            </Label>
                         </AlertDialogDescription>
                     </AlertDialogHeader>
                     <AlertDialogFooter>
                         <AlertDialogCancel>Cancel</AlertDialogCancel>
                         <AlertDialogAction disabled={!title} onClick={() => {
-                            createExam(title, selectedQuestions, maxScore, duration).then(() => {
-                                toast({
-                                    title: "Exam created successfully!",
-                                    description: "You can now view your exam in the dashboard.",
-                                })
-                                router.push("/dashboard/exam");
-                            });
+                            createExam(title, shuffle ? shuffleQuestions(selectedQuestions) : selectedQuestions, maxScore, duration)
+                                .then(() => {
+                                    toast({
+                                        title: "Exam created successfully!",
+                                        description: "You can now view your exam in the dashboard.",
+                                    })
+                                    router.push("/dashboard/exam");
+                                });
                         }}>Create Exam</AlertDialogAction>
                     </AlertDialogFooter>
                 </AlertDialogContent>
