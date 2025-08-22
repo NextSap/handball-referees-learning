@@ -1,0 +1,68 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model Exam {
+  id          Int           @id @unique @default(autoincrement())
+  title       String        @db.VarChar
+  duration    Int
+  maxScore    Int
+  createdAt   DateTime      @default(now()) @db.Timestamp(6)
+  questions   String[]
+  RefereeExam RefereeExam[]
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model Referee {
+  id          Int           @id @unique @default(autoincrement())
+  lastName    String        @db.VarChar
+  firstName   String        @db.VarChar
+  email       String        @db.VarChar
+  role        Role
+  competition Competition
+  RefereeExam RefereeExam[]
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model RefereeExam {
+  id           Int       @id @unique @default(autoincrement())
+  idReferee    Int
+  idExam       Int
+  startDate    DateTime? @db.Timestamp(6)
+  endDate      DateTime? @db.Timestamp(6)
+  score        Int       @default(0)
+  answered     Int       @default(0)
+  wellAnswered Int       @default(0)
+  state        State     @default(welcome)
+  resultSent   Boolean   @default(false)
+  emailSent    Boolean   @default(false)
+  answers      String    @default("{}")
+  Exam         Exam      @relation(fields: [idExam], references: [id], onDelete: Cascade)
+  Referee      Referee   @relation(fields: [idReferee], references: [id], onDelete: Cascade)
+}
+
+enum State {
+  welcome
+  started
+  finished
+}
+
+enum Role {
+  coach
+  referee
+  delegate
+}
+
+enum Competition {
+  elite
+  national
+  league
+  regional
+}

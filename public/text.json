@@ -1,0 +1,26 @@
+{
+  "welcome": {
+    "en": {
+      "title": "Rules of the Game : Exam",
+      "intro": "This test contains 20 questions and you have 20 minutes to answer.",
+      "ready": "Ready ? Press the button Start."
+    },
+    "fr": {
+      "title": "Règles du jeu : Examen",
+      "intro": "Ce test contient 20 questions et vous avez 20 minutes pour le réaliser.",
+      "ready": "Prêt ? Cliquez sur le bouton Start."
+    },
+    "nl": {
+      "title": "Spelregels: Examen",
+      "intro": "Deze test bestaat uit 20 vragen en u hebt 20 minuten de tijd om deze te maken.",
+      "ready": "Alles klaar ? Druk op de knop Start."
+    },
+    "de": {
+      "title": "Spielregeln: Prüfung",
+      "intro": "Dieser Test enthält 20 Fragen und Sie haben 20 Minuten Zeit, um diese zu beantworten.",
+      "ready": "Bereit? Drücken Sie die Taste Start."
+    }
+  },
+  "version": "July 2025 version",
+  "baseUrl": "https://handball-referees-learning.vercel.app/"
+}

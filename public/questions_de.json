@@ -1,0 +1,5986 @@
+{
+  "questions": {
+    "1": [
+      {
+        "id": "1.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "1.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "1.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "1.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b","c","d"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": "2.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "2.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "2.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "2.4",
+        "question": "Nach dem Schlusssignal ist von Team WEISS noch ein Freiwurf auszuführen. Sie wechselt nacheinander die wurfstarken Spieler WEISS 5 und WEISS 6 ein, nachdem WEISS 3 und anschließend WEISS 4 die Spielfläche verlassen haben. Welche der folgenden Aussagen treffen zu?",
+        "answers": {
+          "a": "Der Zeitnehmer wird pfeifen und die Schiedsrichter auf einen Wechselfehler von Team WEISS hinweisen.",
+          "b": "Spieler WEISS 4 ist wegen Wechselfehlers hinauszustellen.",
+          "c": "Spieler WEISS 6 ist wegen Wechselfehlers hinauszustellen.",
+          "d": "Der Zeitnehmer wird nicht pfeifen, da kein Anlass besteht.",
+          "e": "Freiwurf für Team WEISS",
+          "f": "Freiwurf für Team SCHWARZ"
+        },
+        "correct": [
+          "a",
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "2.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "2.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "2.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "2.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "2.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "2.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "2.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "2.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "2.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "2.14",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "2.15",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "2.16",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "2.17",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "2.18",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "2.19",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "2.20",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "2.21",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "2.22",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "2.23",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "e"
+        ]
+      },
+      {
+        "id": "2.24",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "2.25",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "2.26",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "c",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "2.27",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "2.28",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "2.29",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "2.30",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "f"
+        ]
+      },
+      {
+        "id": "2.31",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "2.32",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "2.33",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "2.34",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "2.35",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "2.36",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "2.37",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "2.38",
+        "question": "SCHWARZ 3 führt einen Torwurf so unglücklich aus, dass der Ball, ohne einen weiteren Spieler zu berühren, im Torraum liegen bleibt. In diesem Moment beantragt der Mannschaftsverantwortliche von SCHWARZ ein Team-Time-out. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Der Zeitnehmer pfeift, stoppt gleichzeitig die Spielzeituhr und zeigt den Schiedsrichtern das Team-Time-out für Team SCHWARZ an.",
+          "b": "Der Zeitnehmer gibt dem Mannschaftsverantwortlichen von SCHWARZ die grüne Karte zurück.",
+          "c": "Spielfortsetzung mit Freiwurf für Team SCHWARZ",
+          "d": "Abwurf für Team WEISS"
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "2.39",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "2.40",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "2.41",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "2.42",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "2.43",
+        "question": "Bei 55:00 beantragt der Mannschaftsverantwortliche von Team WEISS das zweite TeamTime-out. Bei 59:00 beantragt derselbe Mannschaftsverantwortliche das dritte Team-Time-out. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Team-Time-out möglich",
+          "b": "Team-Time-out nicht möglich"
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "2.44",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "2.45",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "2.46",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "2.47",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "f"
+        ]
+      },
+      {
+        "id": "2.48",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "2.49",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "2.50",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b","c","e"
+        ]
+      },
+      {
+        "id": "2.51",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": "",
+          "h": ""
+        },
+        "correct": [
+          "a","c","d"
+        ]
+      },
+      {
+        "id": "2.52",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": "",
+          "h": "",
+          "i": ""
+        },
+        "correct": [
+          "a","c","h","i"
+        ]
+      },
+      {
+        "id": "2.53",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": "",
+          "h": ""
+        },
+        "correct": [
+          "a","b","d","f"
+        ]
+      },
+      {
+        "id": "2.54",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a","c"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": "3.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "3.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "3.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "3.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": "4.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "4.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "4.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "4.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "4.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "4.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "4.7",
+        "question": "Die Schiedsrichter haben auf Freiwurf für Team WEISS an der Freiwurflinie von Team SCHWARZ entschieden. Jetzt pfeift der Zeitnehmer und hält die Uhr an. Die Schiedsrichter erkundigen sich nach dem Grund des Pfiffs. Der Zeitnehmer teilt mit, dass WEISS 9 einen Wechselfehler begangen hat. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Freiwurf für Team WEISS an der Freiwurflinie von Team SCHWARZ",
+          "b": "Freiwurf für Team SCHWARZ an der eigenen Freiwurflinie",
+          "c": "Freiwurf für Team SCHWARZ am Auswechselraum von Team WEISS",
+          "d": "Hinausstellung von WEISS 9"
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "4.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "4.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "4.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "4.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "4.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "4.14",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "4.15",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "4.16",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "4.17",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "4.18",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.19",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "4.20",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "4.21",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.22",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "4.23",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "4.24",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "4.25",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "4.26",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "e"
+        ]
+      },
+      {
+        "id": "4.27",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "4.28",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "4.29",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "4.30",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "f"
+        ]
+      },
+      {
+        "id": "4.31",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "4.32",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "4.33",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "4.34",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": ""
+        },
+        "correct": [
+          "b",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "4.35",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "4.36",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "4.37",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "4.38",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.39",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "4.40",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "4.41",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "4.42",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.43",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": "",
+          "h": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d",
+          "f",
+          "h"
+        ]
+      },
+      {
+        "id": "4.44",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "4.45",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d",
+          "f"
+        ]
+      },
+      {
+        "id": "4.46",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "4.47",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "4.48",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "4.49",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "4.50",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "4.51",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "4.52",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.53",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.54",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.55",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.56",
+        "question": "Nach einem Torwurf bleibt Kreisspieler SCHWARZ 2 im Torraum von Team WEISS liegen und bittet um Behandlung – scheinbar aufgrund einer Beinverletzung. Team WEISS hat soeben einen Gegenstoß eingeleitet. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Die Schiedsrichter müssen das Spiel umgehend unterbrechen und die Handzeichen 15 und 16 zeigen, um zur Behandlung von SCHWARZ 2 auf der Spielfläche aufzufordern.",
+          "b": "Das Spiel wird fortgesetzt, bis der Gegenstoß von Team WEISS abgeschlossen ist. Danach muss das Spiel unterbrochen werden, um zur Behandlung von SCHWARZ 2 auf der Spielfläche aufzufordern."
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "4.57",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": ""
+        },
+        "correct": [
+          "c",
+          "e",
+          "g"
+        ]
+      },
+      {
+        "id": "4.58",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "4.59",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "4.60",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "4.61",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "d"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": "5.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "5.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "5.3",
+        "question": "Torwart WEISS 12 wehrt ab und wirft sich nach dem Ball, der sich in Richtung Spielfeld bewegt. Er erreicht ihn, rutscht aber über die Torraumlinie hinaus und spielt erst im Spielfeld einem Mitspieler den Ball zu. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Freiwurf für Team SCHWARZ",
+          "b": "Weiterspielen lassen",
+          "c": "Abwurf für Team WEISS mit Anpfiff"
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "5.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "5.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "5.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "5.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "5.8",
+        "question": "Torwart SCHWARZ 12 springt in seinem Torraum ab, um einen weiten Bogenpass von WEISS 7 abzufangen. Er fängt den Ball in der Luft und landet mit Ball mit einem Fuß im Torraum, mit dem anderen im Spielfeld. Aus dieser Position spielt er den Ball weiter zu SCHWARZ 3. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "7-Meter-Wurf für Team WEISS",
+          "b": "Weiterspielen lassen",
+          "c": "Freiwurf für Team WEISS",
+          "d": "Korrektur und Abwurf für Team SCHWARZ nach Anpfiff"
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "5.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "5.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "5.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "5.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "5.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "6.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "6.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "6.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "6.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "6.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "6.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "6.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "6.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "6.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "6.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "6.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "6.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "6.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "id": "6.14",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "6.15",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "6.16",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "6.17",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "6.18",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "6.19",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "6.20",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "6.21",
+        "question": "Torwart SCHWARZ 1 wehrt einen Torwurf ab und möchte den Ball zu SCHWARZ 6 spielen, der bereit zum Gegenstoß ist. Bei der Ausführung des Abwurfs berührt Torwart SCHWARZ 1 die Torraumlinie. SCHWARZ 6 bekommt den Ball und erzielt ein Tor. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Tor zählt",
+          "b": "Freiwurf für Team WEISS",
+          "c": "Korrektur und Wiederholung des Abwurfs mit Anpfiff",
+          "d": "Tor zählt nicht"
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "6.22",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "6.23",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "6.24",
+        "question": "Mannschaft WEISS ist im Angriff und spielt ohne Torwart. WEISS 11 wirft auf das Tor. Torwart SCHWARZ 1 hält den Ball. Er führt den Abwurf als Wurf auf das leere Tor aus. WEISS 10 versucht den Wurf abzuwehren. Er springt außerhalb seines Torraums ab, und während er sich in der Luft über dem Torraum befindet, fängt er den Ball und landet mit dem Ball in der Hand im Torraum. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Freiwurf für Mannschaft SCHWARZ",
+          "b": "7-Meter-Wurf für Mannschaft SCHWARZ",
+          "c": "Progressive Bestrafung für WEISS 10"
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": "7.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "7.3",
+        "question": "",
+        "answers": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.4",
+        "question": "",
+        "answers": {
+          "a": "1",
+          "b": "3",
+          "c": "0",
+          "d": "2"
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "7.5",
+        "question": "",
+        "answers": {
+          "a": "3",
+          "b": "2",
+          "c": "1",
+          "d": "0"
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "7.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "7.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "7.14",
+        "question": "WEISS 9 blockt den von SCHWARZ 3 mittels Sprungwurf geworfenen Ball ab. Der Ball fällt auf den Boden. WEISS 9 nimmt ihn mit beiden Händen auf, beginnt prellend einen Gegenstoß und wirft ins Tor von Team SCHWARZ. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Tor für Team WEISS",
+          "b": "Freiwurf für Team SCHWARZ",
+          "c": "Hinausstellung von WEISS 9",
+          "d": "Time-out"
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "7.15",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "7.16",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "7.17",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.18",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.19",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.20",
+        "question": "WEISS 10 versucht ein Kreisanspiel zu WEISS 8. Der vor diesem stehende Abwehrspieler SCHWARZ 10 wird von dem Ball am Fuß getroffen. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Freiwurf für Team WEISS",
+          "b": "Weiterspielen lassen",
+          "c": "Entscheidend ist hier, wer in Ballbesitz gelangt."
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.21",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "7.22",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.23",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "7.24",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "id": "7.25",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "7.26",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "7.27",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "7.28",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "7.29",
+        "question": "Team WEISS befindet sich im Ballbesitz. Die Schiedsrichter zeigen das Vorwarnzeichen für passives Spiel. Nach drei Pässen wirft WEISS 5 auf das Tor. SCHWARZ 2 blockt den Torwurf, und der Ball landet wieder bei WEISS 5, der ihn zu WEISS 9 spielt. Wie viele Pässe wurden gespielt?",
+        "answers": {
+          "a": "3",
+          "b": "4",
+          "c": "5"
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "7.30",
+        "question": "",
+        "answers": {
+          "a": "1",
+          "b": "2",
+          "c": "3"
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "7.31",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "7.32",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "7.33",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "7.34",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "7.35",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a","d"
+        ]
+      },
+      {
+        "id": "7.36",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b","d","f"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": "8.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "8.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "8.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "8.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "f"
+        ]
+      },
+      {
+        "id": "8.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "8.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "8.7",
+        "question": "Außenspieler WEISS 4 kommt zu einer klaren Torchance. Im letzten Moment versucht SCHWARZ 7, ihm den Ball aus der Hand zu spielen, wobei er allerdings nur den Unterarm von WEISS 4 trifft. Der Ball geht am Tor vorbei. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Freiwurf für Team WEISS",
+          "b": "7-Meter-Wurf für Team WEISS",
+          "c": "Hinausstellung von SCHWARZ 7",
+          "d": "Verwarnung von SCHWARZ 7",
+          "e": "Keine Bestrafung von SCHWARZ 7"
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "8.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "8.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "id": "8.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "8.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "8.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "id": "8.14",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "8.15",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "8.16",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "8.17",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "8.18",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "8.19",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.20",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "8.21",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "8.22",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.23",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "8.24",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "8.25",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "8.26",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "8.27",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "8.28",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "8.29",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "8.30",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.31",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.32",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "8.33",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.34",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "8.35",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "8.36",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "c",
+          "f"
+        ]
+      },
+      {
+        "id": "8.37",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "d",
+          "f"
+        ]
+      },
+      {
+        "id": "8.38",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "8.39",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "8.40",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "8.41",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "8.42",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "8.43",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.44",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "8.45",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "8.46",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "8.47",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "8.48",
+        "question": "Team WEISS spielt mit sieben Feldspielern und befindet sich im Angriff. SCHWARZ 5 fängt einen Pass ab und gelangt in Ballbesitz. Er setzt sofort zum Torwurf an. WEISS 2 will SCHWARZ 5 am Torwurf hindern, indem er ihn zu Boden zieht. Der Wurf verfehlt das Tor. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Abwurf für Team WEISS",
+          "b": "Freiwurf für Team SCHWARZ",
+          "c": "7-Meter-Wurf für Team SCHWARZ",
+          "d": "Hinausstellung von WEISS 2",
+          "e": "Time-out"
+        },
+        "correct": [
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "8.49",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "8.50",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "8.51",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "8.52",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "8.53",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "8.54",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "8.55",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "8.56",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.57",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "8.58",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "8.59",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "8.60",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "8.61",
+        "question": "Team SCHWARZ befindet sich im Angriff. Drei Sekunden vor Spielende entscheiden die Schiedsrichter auf Freiwurf für Team SCHWARZ an der Freiwurflinie. SCHWARZ 10 befindet sich in korrekter Position, um den Freiwurf direkt auf das Tor auszuführen. Bevor SCHWARZ 10 werfen kann, wird er von WEISS 5 daran gehindert. Dieser bewegt sich bis auf einen Meter auf ihn zu. Dabei springt er vor ihm auf und bewegt seine erhobenen Arme. Das Schlusssignal ertönt. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Hinausstellung von WEISS 5",
+          "b": "Disqualifikation von WEISS 5 (rote Karte)",
+          "c": "Freiwurf für Team SCHWARZ",
+          "d": "7-Meter-Wurf für Team SCHWARZ"
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.62",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "d",
+          "f"
+        ]
+      },
+      {
+        "id": "8.63",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "f"
+        ]
+      },
+      {
+        "id": "8.64",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.65",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "8.66",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "8.67",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "8.68",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": ""
+        },
+        "correct": [
+          "a",
+          "d",
+          "f"
+        ]
+      },
+      {
+        "id": "8.69",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "d",
+          "f"
+        ]
+      },
+      {
+        "id": "8.70",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "8.71",
+        "question": "Der Spielstand ist 29:29, und es sind noch 10 Sekunden zu spielen. Mannschaft WEISS ist in einem Tempogegenstoß. SCHWARZ 10 attackiert WEISS 9 in gesundheitsgefährdender Weise. Bevor WEISS 9 fällt, spielt er den Ball zu WEISS 11. WEISS 11 wirft auf das Tor, aber Torwart SCHWARZ 12 kann den Wurf abwehren. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Hinausstellung für SCHWARZ 10",
+          "b": "Disqualifikation ohne Bericht für SCHWARZ 10",
+          "c": "Abwurf für Mannschaft SCHWARZ",
+          "d": "Freiwurf für Mannschaft WEISS",
+          "e": "7-Meter-Wurf für Mannschaft WEISS",
+          "f": "Time-out"
+        },
+        "correct": [
+          "b",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "8.72",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "f"
+        ]
+      },
+      {
+        "id": "8.73",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "8.74",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": "",
+          "h": ""
+        },
+        "correct": [
+          "a","e","h"
+        ]
+      },
+      {
+        "id": "8.75",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b","d","e"
+        ]
+      },
+      {
+        "id": "8.76",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a","d","f"
+        ]
+      },
+      {
+        "id": "8.77",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": ""
+        },
+        "correct": [
+          "b","e","f","g"
+        ]
+      },
+      {
+        "id": "8.78",
+        "question": "Außenspieler SCHWARZ 3 hat eine klare Torchance und schießt aufs Tor. Der Ball berührt seitlich den Kopf von Torwart WEISS 1, ohne die Richtung zu ändern. Der Ball geht ins Tor. Was ist die richtige Entscheidung?",
+        "answers": {
+          "a": "2 Minuten direkte Sperre für SCHWARZ 3.",
+          "b": "Progressive Bestrafung für WEISS 1",
+          "c": "Goal.",
+          "d": "Freiwurf für WEISS"
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "8.79",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": ""
+        },
+        "correct": [
+          "a","b","c","f"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": "9.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "9.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "9.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "9.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "9.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "9.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "9.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "9.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "9.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "9.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "10.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "10.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "10.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "10.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "10.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "10.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "10.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "10.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "10.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "10.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a","f"
+        ]
+      },
+      {
+        "id": "10.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a","b","c","d"
+        ]
+      },
+      {
+        "id": "10.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": "",
+          "g": "",
+          "h": ""
+        },
+        "correct": [
+          "d","e","g"
+        ]
+      },
+      {
+        "id": "10.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a","b","d"
+        ]
+      },
+      {
+        "id": "10.14",
+        "question": "(Mit anwurfzone) Wann darf ein Schiedsrichter die Ausführung eines Anwurfs pfeifen?",
+        "answers": {
+          "a": "Wenn sich mindestens ein Fuß des Werfers und der Ball innerhalb der Anwurfzone befinden und der andere Fuß sich nicht außerhalb der Anwurfzone auf der gegnerischen Spielfeldhälfte befindet.",
+          "b": "Wenn der Werfer mindestens einen Fuß innerhalb der Anwurfzone hat und der andere Fuß sich nicht außerhalb der Anwurfzone auf der gegnerischen Spielfeldhälfte befindet, der Ball sich aber noch außerhalb der Anwurfzone befindet.",
+          "c": "Wenn sich mindestens ein Fuß des Werfers und der Ball innerhalb der Anwurfzone befinden und der andere Fuß sich außerhalb der Anwurfzone in der gegnerischen Hälfte befindet.",
+          "d": "Wenn sich mindestens ein Fuß des Werfers und der Ball innerhalb der Anwurfzone befinden, der andere Fuß jedoch nicht außerhalb der Anwurfzone in der gegnerischen Spielfeldhälfte ist, sich Mitspieler des Werfers jedoch innerhalb der Anwurfzone in der gegnerischen Spielfeldhälfte befinden."
+        },
+        "correct": [
+          "a","d"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": "11.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "11.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "11.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "11.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "11.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "11.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "12.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "12.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "12.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "12.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "12.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "12.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "12.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "12.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "12.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "12.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "12.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "d"
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "13.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "13.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "13.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "13.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "13.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "13.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "13.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "13.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "13.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "13.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "13.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "13.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "13.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "13.14",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "13.15",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "c",
+          "e"
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "14.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "14.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c","e"
+        ]
+      },
+      {
+        "id": "14.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "14.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "14.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "14.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "14.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "14.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "14.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "14.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "14.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "14.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "14.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "14.14",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "14.15",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "c"
+        ]
+      },
+      {
+        "id": "14.16",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "14.17",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "14.18",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "14.19",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "id": "14.20",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "14.21",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "14.22",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "14.23",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "b",
+          "d",
+          "f"
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "15.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "15.2",
+        "question": "20 Sekunden vor Spielende, beim Stand von 20:19 für Team WEISS, lässt sich Torwart WEISS 12 beim Abwurf sehr viel Zeit, indem er mit dem Ball im Torraum prellend hin und her geht. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Time-out",
+          "b": "Freiwurf gegen Team WEISS",
+          "c": "Anpfiff zum Abwurf",
+          "d": "Hinausstellung von WEISS 12",
+          "e": "Anzeigen des Vorwarnzeichens für passives Spiel"
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "15.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "15.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "15.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "15.6",
+        "question": "Der Torwart von Team SCHWARZ hat einen Wurf gehalten und will sofort einen Gegenstoß einleiten. Dabei entgleitet ihm der Ball und rollt ins Tor. Wie ist zu entscheiden?",
+        "answers": {
+          "a": "Tor für Team WEISS",
+          "b": "Wiederholung des Abwurfs mit Anpfiff",
+          "c": "Einwurf für Team WEISS",
+          "d": "Freiwurf für Team WEISS"
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "15.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "15.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "15.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "15.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "15.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "15.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "15.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "15.14",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "15.15",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "id": "15.16",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "15.17",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "15.18",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "15.19",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "15.20",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "e"
+        ]
+      },
+      {
+        "id": "15.21",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "c"
+        ]
+      },
+      {
+        "id": "15.22",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "15.23",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "15.24",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "15.25",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "15.26",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "16.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "16.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "16.3",
+        "question": "",
+        "answers": {
+          "a": "Aucun",
+          "b": "1",
+          "c": "2",
+          "d": "3"
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "16.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "16.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "16.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "id": "16.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "16.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "16.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "16.10",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "16.11",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "a"
+        ]
+      },
+      {
+        "id": "16.12",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "16.13",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "16.14",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "16.15",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "id": "16.16",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "16.17",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "16.18",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "c",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "id": "16.19",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "e"
+        ]
+      },
+      {
+        "id": "16.20",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "16.21",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "16.22",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      },
+      {
+        "id": "16.23",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "d"
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "17.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      },
+      {
+        "id": "17.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "f"
+        ]
+      },
+      {
+        "id": "17.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "17.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "17.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "e"
+        ]
+      },
+      {
+        "id": "17.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "c"
+        ]
+      },
+      {
+        "id": "17.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "17.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "17.9",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": "",
+          "f": ""
+        },
+        "correct": [
+          "c",
+          "d"
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "18.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "id": "18.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "18.3",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "id": "18.4",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "18.5",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "a",
+          "d"
+        ]
+      },
+      {
+        "id": "18.6",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "b",
+          "d"
+        ]
+      },
+      {
+        "id": "18.7",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": ""
+        },
+        "correct": [
+          "b"
+        ]
+      },
+      {
+        "id": "18.8",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": ""
+        },
+        "correct": [
+          "a"
+        ]
+      }
+    ],
+    "SAR": [
+      {
+        "id": "SAR.1",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correct": [
+          "d"
+        ]
+      },
+      {
+        "id": "SAR.2",
+        "question": "",
+        "answers": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": "",
+          "e": ""
+        },
+        "correct": [
+          "b",
+          "e"
+        ]
+      }
+    ]
+  }
+}
