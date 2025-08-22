@@ -12,13 +12,27 @@
     },
     "nl": {
       "title": "Spelregels: Examen",
-      "intro": "Deze test bestaat uit 20 vragen en u hebt 20 minuten de tijd om deze te maken.",
+      "intro": "Deze test bestaat uit 20 vragen en u hebt 20 minuten de tijd om deze te doen.",
       "ready": "Alles klaar ? Druk op de knop Start."
     },
     "de": {
       "title": "Spielregeln: Prüfung",
       "intro": "Dieser Test enthält 20 Fragen und Sie haben 20 Minuten Zeit, um diese zu beantworten.",
       "ready": "Bereit? Drücken Sie die Taste Start."
+    }
+  },
+  "finish": {
+    "en": {
+      "title": "End of the test, you are going to receive your results by email."
+    },
+    "fr": {
+      "title": "Fin du test, vous allez recevoir vos résultats par email."
+    },
+    "nl": {
+      "title": "Einde van de test, u ontvangt uw resultaten per e-mail."
+    },
+    "de": {
+      "title": "Ende des Tests, Sie werden Ihre Ergebnisse per E-Mail erhalten."
     }
   },
   "version": "July 2025 version",

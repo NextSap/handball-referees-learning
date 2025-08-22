@@ -35,6 +35,7 @@ export default function Home({referee, exam, refereeExam, lang}: Props) {
     const [endTime, setEndTime] = useState<number>(refereeExam.endDate?.getTime() || 0);
 
     const welcome = texts.welcome[lang];
+    const finish = texts.finish[lang];
 
     useEffect(() => {
         questionsRef.current = questions;
@@ -153,11 +154,11 @@ export default function Home({referee, exam, refereeExam, lang}: Props) {
                     className="flex flex-col gap-10 w-[90%] m-auto mt-5 transition-opacity duration-300 ease-in-out">
                     <div className="flex flex-col justify-center items-center w-full">
                         <Image src="/IHF Logo.png" width={100} height={100} alt="IHF Logo"/>
-                        <p>May 2024 version</p>
+                        <p>{texts.version}</p>
                         <h1 className="text-3xl font-bold mt-5">Rules test</h1>
                     </div>
                     <div>
-                        <p>You finished the test.</p>
+                        <p>{finish.title}</p>
                     </div>
                 </div>
             );

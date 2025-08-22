@@ -194,13 +194,13 @@
       },
       {
         "id": "2.11",
-        "question": "",
+        "question": "Nach dem Schlusssignal ist von Team SCHWARZ noch ein Freiwurf auszuführen. Vor der Ausführung wechselt Team WEISS kurz nacheinander die hochgewachsenen WEISS 10 und WEISS 11 ein, nachdem WEISS 8 und WEISS 9 gleichzeitig die Spielfläche verlassen haben. Welche der folgenden Aussagen treffen zu?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": ""
+          "a": "Der Zeitnehmer wird pfeifen und die Schiedsrichter auf einen Wechselfehler von Team WEISS hinweisen.",
+          "b": "WEISS 10 wird infolge eines Wechselfehlers hinausgestellt.",
+          "c": "WEISS 11 wird infolge eines Wechselfehlers hinausgestellt.",
+          "d": "Der Zeitnehmer wird nicht pfeifen, da keine Regelwidrigkeit vorliegt.",
+          "e": "WEISS 11 muss die Spielfläche verlassen. WEISS 8 oder WEISS 9 darf zurückkehren."
         },
         "correct": [
           "a",
@@ -432,13 +432,13 @@
       },
       {
         "id": "2.27",
-        "question": "",
+        "question": "Nach dem Halbzeitsignal ist noch ein Freiwurf auszuführen. Welche Spieler dürfen noch ausgewechselt werden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": ""
+          "a": "Alle Spieler beider Mannschaften",
+          "b": "Nur Abwehrspieler",
+          "c": "Nur Angriffsspieler",
+          "d": "Ein Spieler der werfenden Mannschaft",
+          "e": "Für einen Feldspieler der verteidigenden Mannschaft darf ein Torwart eingewechselt werden, wenn die Mannschaft beim Schlusspfiff ohne Torwart gespielt hat."
         },
         "correct": [
           "d",
@@ -729,14 +729,14 @@
       },
       {
         "id": "2.47",
-        "question": "",
+        "question": "Mannschaft WEISS möchte ein Team-Time-out beantragen. Der Mannschaftsverantwortliche von Team WEISS legt die grüne Karte auf den Tisch vor den Zeitnehmer. Bevor der Zeitnehmer pfeifen kann, wirft WEISS 9 auf das Tor. Der Wurf wird von Torwart SCHWARZ 12 geblockt. Der Zeitnehmer pfeift, als der Ball im Torraum rollt. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": "",
-          "f": ""
+          "a": "Kein Team-Time-out möglich, weil Mannschaft WEISS nicht in Ballbesitz ist",
+          "b": "Team-Time-out für Mannschaft WEISS",
+          "c": "Die grüne Karte wird Mannschaft WEISS zurückgegeben.",
+          "d": "Das Spiel wird mit Abwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "e": "Das Spiel wird mit Freiwurf für Mannschaft WEISS wieder aufgenommen.",
+          "f": "Das Spiel wird mit Freiwurf für Mannschaft SCHWARZ wieder aufgenommen."
         },
         "correct": [
           "a",
@@ -1335,13 +1335,13 @@
       },
       {
         "id": "4.31",
-        "question": "",
+        "question": "Unmittelbar nach dem Anwurf durch Team SCHWARZ stellen die Schiedsrichter fest, dass sich im Auswechselraum von Team SCHWARZ eine nicht im Spielprotokoll eingetragene Person befindet. Die Überprüfung ergibt, dass es sich um den Vereinsvorsitzenden handelt. Team SCHWARZ hatte jedoch bereits fünf Offizielle im Spielbericht eingetragen. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": ""
+          "a": "Der Vereinsvorsitzende muss den Auswechselraum verlassen.",
+          "b": "Der Mannschaftsverantwortliche von Team SCHWARZ wird persönlich bestraft.",
+          "c": "Ein weiterer Offizieller muss den Auswechselraum verlassen.",
+          "d": "Spielfortsetzung mit Freiwurf für Team WEISS",
+          "e": "Spielfortsetzung mit Freiwurf für Team SCHWARZ"
         },
         "correct": [
           "a",
@@ -1689,7 +1689,7 @@
       },
       {
         "id": "4.56",
-        "question": "Nach einem Torwurf bleibt Kreisspieler SCHWARZ 2 im Torraum von Team WEISS liegen und bittet um Behandlung – scheinbar aufgrund einer Beinverletzung. Team WEISS hat soeben einen Gegenstoß eingeleitet. Wie ist zu entscheiden?",
+        "question": "Nach einem Torwurf bleibt Kreisspieler SCHWARZ 2 im Torraum von Team WEISS liegen und bittet um Behandlung - scheinbar aufgrund einer Beinverletzung. Team WEISS hat soeben einen Gegenstoß eingeleitet. Wie ist zu entscheiden?",
         "answers": {
           "a": "Die Schiedsrichter müssen das Spiel umgehend unterbrechen und die Handzeichen 15 und 16 zeigen, um zur Behandlung von SCHWARZ 2 auf der Spielfläche aufzufordern.",
           "b": "Das Spiel wird fortgesetzt, bis der Gegenstoß von Team WEISS abgeschlossen ist. Danach muss das Spiel unterbrochen werden, um zur Behandlung von SCHWARZ 2 auf der Spielfläche aufzufordern."
@@ -2111,12 +2111,12 @@
       },
       {
         "id": "6.13",
-        "question": "",
+        "question": "Der Ball liegt im Torraum von Team WEISS. In diesem Moment pfeift der Zeitnehmer und erklärt, dass WEISS 5 einen Wechselfehler begangen hat. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
+          "a": "Abwurf",
+          "b": "Hinausstellung von WEISS 5",
+          "c": "Freiwurf für Team SCHWARZ an der Freiwurflinie",
+          "d": "Freiwurf für Team SCHWARZ am Auswechselraum von Team WEISS"
         },
         "correct": [
           "a",
@@ -2493,12 +2493,12 @@
       },
       {
         "id": "7.18",
-        "question": "",
+        "question": "Ein Spieler springt in den gegnerischen Torraum. Er hat Ball- und Körperkontrolle und befindet sich in einer guten Wurfposition. Anstatt zu werfen, dreht er über dem Torraum ab und spielt den Ball zurück zu einem Mitspieler, der den Ball weiterspielt. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
+          "a": "Vorwarnzeichen für passives Spiel",
+          "b": "Sofortiger Freiwurf wegen passiven Spiels",
+          "c": "Sofortiger Freiwurf wegen unsportlichen Verhaltens",
+          "d": "Progressive Bestrafung"
         },
         "correct": [
           "b"
@@ -2645,7 +2645,7 @@
       },
       {
         "id": "7.29",
-        "question": "Team WEISS befindet sich im Ballbesitz. Die Schiedsrichter zeigen das Vorwarnzeichen für passives Spiel. Nach drei Pässen wirft WEISS 5 auf das Tor. SCHWARZ 2 blockt den Torwurf, und der Ball landet wieder bei WEISS 5, der ihn zu WEISS 9 spielt. Wie viele Pässe wurden gespielt?",
+        "question": "Team WEISS befindet sich im Ballbesitz. Die Schiedsrichter zeigen das Vorwarnzeichen für passives Spiel. Nach einem Pass wirft WEISS 5 auf das Tor. SCHWARZ 2 blockt den Torwurf, und der Ball landet wieder bei WEISS 5, der ihn zu WEISS 9 spielt. Wie viele Pässe wurden gespielt?",
         "answers": {
           "a": "3",
           "b": "4",
@@ -2695,13 +2695,13 @@
       },
       {
         "id": "7.33",
-        "question": "",
+        "question": "Team WEISS befindet sich im Ballbesitz. Aufgrund einer Tendenz zum passiven Spiel bei Team WEISS zeigen die Schiedsrichter das Vorwarnzeichen an. Nach vier Pässen wirft WEISS 5 auf das Tor. SCHWARZ 3 blockt den Wurf, und der Ball landet wieder bei WEISS 5. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": ""
+          "a": "Freiwurf für Team SCHWARZ",
+          "b": "Team WEISS steht noch ein Pass zur Verfügung, um auf das Tor zu werfen.",
+          "c": "Das Vorwarnzeichen ist weiterhin gültig.",
+          "d": "Das Vorwarnzeichen ist nicht mehr gültig.",
+          "e": "Team WEISS stehen keine Pässe mehr zur Verfügung, um auf das Tor zu werfen."
         },
         "correct": [
           "b",
@@ -2815,12 +2815,12 @@
       },
       {
         "id": "8.5",
-        "question": "",
+        "question": "WEISS 2 wurde hinausgestellt, aber schon nach einer Minute wird er vom Offiziellen A wieder auf die Spielfläche geschickt. Noch bevor der Zeitnehmer pfeift, vereitelt WEISS 2 eine klare Torchance von Team SCHWARZ. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
+          "a": "Freiwurf für Team SCHWARZ und erneute Hinausstellung von WEISS 2",
+          "b": "7-Meter-Wurf für Team SCHWARZ, erneute Hinausstellung von WEISS 2 und weitere Reduzierung von Team WEISS für die Reststrafzeit",
+          "c": "7-Meter-Wurf für Team SCHWARZ, Disqualifikation von WEISS 2 ohne schriftlichen Bericht und weitere Reduzierung seiner Mannschaft für die Reststrafzeit (rote Karte)",
+          "d": "7-Meter-Wurf für Team SCHWARZ, Disqualifikation von WEISS 2 und weitere Reduzierung seiner Mannschaft für die Reststrafzeit; schriftlicher Bericht (rote und blaue Karte)"
         },
         "correct": [
           "d"
@@ -3496,13 +3496,13 @@
       },
       {
         "id": "8.51",
-        "question": "",
+        "question": "Mannschaft WEISS spielt mit sieben Feldspielern und greift an. WEISS 4 schießt aufs Tor, doch Torwart SCHWARZ 12 hält den Ball. SCHWARZ 12 passt zu SCHWARZ 9, der aufs Tor schießt. Feldspieler WEISS 10 betritt den eigenen Torraum und kann den Ball halten. Der Ball geht über die äußere Torlinie. Wie lautet die Entscheidung?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": ""
+          "a": "Einwurf für Team SCHWARZ",
+          "b": "Freiwurf für Team SCHWARZ",
+          "c": "7-Meter-Wurf für Team SCHWARZ",
+          "d": "Progressive Bestrafung von WEISS 10",
+          "e": "Hinausstellung von WEISS 10"
         },
         "correct": [
           "c",
@@ -3601,13 +3601,13 @@
       },
       {
         "id": "8.58",
-        "question": "",
+        "question": "Spielzeit: 59:27. SCHWARZ 10 befindet sich in Ballbesitz und führt einen Sprungwurf aus. WEISS 2 stößt ihn dabei so stark in die Brust, dass er vollständig die Körperkontrolle verliert und mit dem Ball auf den Boden stürzt. Der Schiedsrichter pfeift, und die Uhr wird bei 59:31 angehalten. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": ""
+          "a": "Freiwurf für Team SCHWARZ",
+          "b": "7-Meter-Wurf für Team SCHWARZ",
+          "c": "Hinausstellung von WEISS 2",
+          "d": "Disqualifikation von WEISS 2 (rote Karte)",
+          "e": "Time-out"
         },
         "correct": [
           "a",
@@ -3634,12 +3634,12 @@
       },
       {
         "id": "8.60",
-        "question": "",
+        "question": "Team SCHWARZ befindet sich im Angriff. Drei Sekunden vor Spielende entscheiden die Schiedsrichter auf Freiwurf für Team SCHWARZ an der Freiwurflinie. SCHWARZ 10 befindet sich in korrekter Position und kann den Freiwurf direkt auf das Tor ausführen. Doch einen Meter von SCHWARZ 10 entfernt steht WEISS 5 und blockt den Torwurf. Im Anschluss ertönt das Schlusssignal. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
+          "a": "7-Meter-Wurf für Team SCHWARZ",
+          "b": "Hinausstellung von WEISS 5",
+          "c": "Disqualifikation von WEISS 5 (rote Karte)",
+          "d": "Freiwurf für Team SCHWARZ nach Wiederanpfiff"
         },
         "correct": [
           "a",
@@ -3841,14 +3841,14 @@
       },
       {
         "id": "8.73",
-        "question": "",
+        "question": "Der Spielstand ist 29:29, und es sind noch 10 Sekunden zu spielen. Mannschaft WEISS ist in einem Tempogegenstoß. SCHWARZ 10 attackiert WEISS 9 in gesundheitsgefährdender Weise. Bevor WEISS 9 fällt, spielt er den Ball zu WEISS 11. WEISS 11 spielt den Ball zu WEISS 4. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": "",
-          "f": ""
+          "a": "Hinausstellung für SCHWARZ 10",
+          "b": "Disqualifikation ohne Bericht für SCHWARZ 10",
+          "c": "Der Schiedsrichter pfeift nach dem Pass von WEISS 11 zu WEISS 4.",
+          "d": "Freiwurf für Mannschaft WEISS",
+          "e": "7-Meter-Wurf für Mannschaft WEISS",
+          "f": "Time-out"
         },
         "correct": [
           "b",
@@ -4060,13 +4060,13 @@
       },
       {
         "id": "9.9",
-        "question": "",
+        "question": "WEISS 5 führt kurz vor Spielende beim Stand von 22:21 für seine Mannschaft einen Anwurf regelgerecht nach Anpfiff aus, indem er den Ball Richtung eigenes Tor wirft. Torwart WEISS 1 berührt den Ball nicht, da er sich im eigenen Torraum befindet. Der Ball geht ins Tor. Die Mitspieler von WEISS 5 hatten nach dem Anpfiff, aber bevor der Ball gespielt wurde, sprintend die Mittellinie in Richtung gegnerisches Tor weit überschritten. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": ""
+          "a": "Tor für Team SCHWARZ",
+          "b": "Freiwurf für Team SCHWARZ",
+          "c": "Wiederholung des Anwurfs mit Anpfiff",
+          "d": "Persönliche Strafe gegen WEISS 5",
+          "e": "Time-out"
         },
         "correct": [
           "a"
@@ -4741,13 +4741,13 @@
       },
       {
         "id": "14.2",
-        "question": "",
+        "question": "Es gibt Einwurf für Team SCHWARZ. Der korrekt ausführende Spieler SCHWARZ 7 sieht, dass Torwart WEISS 12 weit vor seinem Tor steht, und wirft den Ball direkt in Richtung des leeren Tors. Feldspieler WEISS 3 betritt den Torraum und fängt den Ball. Entscheidung?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": "",
-          "e": ""
+          "a": "Tor",
+          "b": "Freiwurf für Team SCHWARZ",
+          "c": "7-Meter-Wurf für Team SCHWARZ",
+          "d": "Progressive Bestrafung von WEISS 3",
+          "e": "Direkte 2-Minuten-Hinausstellung von WEISS 3"
         },
         "correct": [
           "c","e"
@@ -5076,12 +5076,12 @@
       },
       {
         "id": "15.3",
-        "question": "",
+        "question": "Es gibt Freiwurf für Team SCHWARZ an der Freiwurflinie von Team WEISS. Als alle Spieler korrekt stehen, pfeifen die Schiedsrichter den Freiwurf an. Noch bevor der Ball die Hand des Ausführenden verlassen hat, überschreiten zwei seiner Mitspieler die Freiwurflinie von Team WEISS. Wie ist zu entscheiden?",
         "answers": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
+          "a": "Wiederholung des Freiwurfs für Team SCHWARZ",
+          "b": "Freiwurf für Team WEISS",
+          "c": "Mit Anpfiff",
+          "d": "Ohne Anpfiff"
         },
         "correct": [
           "b",
