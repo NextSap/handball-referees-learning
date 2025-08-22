@@ -71,7 +71,7 @@ const HistoryComponent = (props: HistoryComponentProps) => {
                                         <TableCell>{refereeExam.state.toUpperCase()}</TableCell>
                                         <TableCell>{refereeExam.score}/{refereeExam.Exam.maxScore} - {color(refereeExam.score, refereeExam.Exam.maxScore)}</TableCell>
                                         <TableCell>{refereeExam.answered}/{refereeExam.Exam.questions.length}</TableCell>
-                                        <TableCell>{refereeExam.wellAnswered}/{refereeExam.answered}</TableCell>
+                                        <TableCell>{refereeExam.wellAnswered}</TableCell>
                                         <TableCell>{String(refereeExam.emailSent).toUpperCase()}</TableCell>
                                         <TableCell>{String(refereeExam.resultSent).toUpperCase()}</TableCell>
                                         <TableCell className="flex gap-3">

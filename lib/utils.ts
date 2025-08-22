@@ -1,26 +1,28 @@
-import { clsx, type ClassValue } from "clsx"
-import { twMerge } from "tailwind-merge"
+import {clsx, type ClassValue} from "clsx"
+import {twMerge} from "tailwind-merge"
 
 export function cn(...inputs: ClassValue[]) {
-  return twMerge(clsx(inputs))
+    return twMerge(clsx(inputs))
 }
 
 export function formatTime(endDate: Date | null) {
-  if(!endDate) return "N/A";
+    if (!endDate) return "N/A";
 
-  const now = new Date();
-  const end = new Date(endDate);
-  const diff = end.getTime() - now.getTime();
+    const now = new Date();
+    const end = new Date(endDate);
+    const diff = end.getTime() - now.getTime();
 
-  const hours = Math.floor(diff / (1000 * 60 * 60));
-  const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
-  const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+    if (diff < 0) return "N/A";
 
-  let result = "";
+    const hours = Math.floor(diff / (1000 * 60 * 60));
+    const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((diff % (1000 * 60)) / 1000);
 
-  if (hours > 0) result += `${hours}h`;
-  if( minutes > 0 || hours > 0) result += `${minutes}m`;
-  result += `${seconds}s`;
+    let result = "";
 
-  return result;
+    if (hours > 0) result += `${hours}h`;
+    if (minutes > 0 || hours > 0) result += `${minutes}m`;
+    result += `${seconds}s`;
+
+    return result;
 }
